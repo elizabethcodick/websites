@@ -1,0 +1,51 @@
+body{
+    background-color: #D8D8D8;
+}
+.main {
+    width: 60%;
+    display: table;
+    clear: both;
+}
+.navtext a{
+  float: left;
+  color: #CDCDCD;
+  text-align: center;
+  padding-right: 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.navtext a.active {
+    color: white;
+}
+#navChg {
+    padding: 15px;
+    width: 100%;
+}
+#sideNavChg {
+    top: 100px;
+    padding: 15px;
+    width: 13%;
+}
+.sidebar {
+    height: 35%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    overflow-x: hidden;
+    padding-top: 50px;
+    background-color: #6c757d;
+}
+h1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#container{
+    margin-top: 5%;
+    margin-left: 15%;
+    width: 85%;
+}
+.button {
+    border: gray inset;
+    border-radius: 6px;
+}
+

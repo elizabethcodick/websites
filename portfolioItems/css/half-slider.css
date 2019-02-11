@@ -1,0 +1,40 @@
+#banner{
+  height: 300px;
+  width: 100%;
+  background-color: lightgray;
+}
+#pageTitle{
+  margin-top: 50px;
+  text-align: center;
+  font-size: 100px;
+  font-weight: bold;
+  font-style: normal;
+  font-variant: small-caps;
+  line-height: 1.5;
+  font-family: Helvetica,Arial,sans-serif;
+
+}
+#discussion{
+  width: 90%;
+  font-style: normal;
+  line-height: 1.5;
+  font-family: Helvetica,Arial,sans-serif;
+}
+.indented {
+  padding-left: 50pt;
+  padding-right: 50pt;
+}
+.headingPadding{
+  padding: 10px;
+  padding-bottom: 30px;
+
+}
+.carousel-inner{
+  height: 500px;
+}
+.carousel-item {
+  height: 65vh;
+  min-height: 500px;
+  background: no-repeat center center scroll;
+  background-size: contain;
+}

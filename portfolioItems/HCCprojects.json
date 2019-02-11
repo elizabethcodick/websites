@@ -1,0 +1,12 @@
+[
+    {
+		"name": "Name of project",
+        "discussion": "This is a projects",
+        "type": "Project"
+    },
+    {
+		"name": "Name of Discussion",
+        "discussion": "This is a discussion",
+        "type": "Discussion"
+	}
+]
